@@ -1,5 +1,11 @@
 document.addEventListener("DOMContentLoaded", function () {
     const projects = [
+      {
+          title: "Augment Cart",
+          description: "Augmented Reality (AR) based E-commerce Platform with 360° View and Virtual Tour — An immersive shopping experience that lets users explore virtual stores, view products in 360°, and interact with them in AR from home.",
+          image: "images/project8.png",
+          link: "https://augmentcart.bristidevburman.site"
+        },
         {
           title: "Expense Tracker App",
           description: "I created this app to simplify tracking and organizing spending. 1. Add and categorize expenses 2. View a summary of your spending 3. Track your budget over time",
@@ -10,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
           title: "MERN-KART",
           description: "An e-commerce website built with the MERN stack, supporting user interaction, payments, and dynamic product view. (Wait a few minutes for the server to load.)",
           image: "images/project5.png",
-          link: "https://mern-kart.netlify.app"
+          link: "https://mern-kart.bristidevburman.site"
         },
         {
           title: "CREDIT CARD FRAUD DETECTION",
