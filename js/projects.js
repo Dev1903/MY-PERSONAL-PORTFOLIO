@@ -1,6 +1,12 @@
 document.addEventListener("DOMContentLoaded", function () {
     const projects = [
       {
+          title: "HireRadar",
+          description: "A simple yet necessary website that helps engineers find their jobs based on their resume, make an ATS friendly resume and check the ATS score of their existing resumes",
+          image: "images/project9.png",
+          link: "https://hire-radar.vercel.app"
+        },
+      {
           title: "Augment Cart",
           description: "Augmented Reality (AR) based E-commerce Platform with 360° View and Virtual Tour — An immersive shopping experience that lets users explore virtual stores, view products in 360°, and interact with them in AR from home.",
           image: "images/project8.png",

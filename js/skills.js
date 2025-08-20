@@ -3,6 +3,7 @@ const skills = [
     { name: "CSS", level: 85 },
     { name: "JavaScript", level: 80 },
     { name: "Bootstrap", level: 85 },
+    { name: "Tailwind CSS", level: 90 },
     { name: "Oracle SQL", level: 75 },
     { name: "React Native", level: 60 },
     { name: "Python (Basics)", level: 85 },
